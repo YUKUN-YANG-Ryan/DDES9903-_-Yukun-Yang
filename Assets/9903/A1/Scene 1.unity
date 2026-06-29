@@ -2716,6 +2716,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1705550776}
     m_Modifications:
+    - target: {fileID: 4566957891733899391, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3a195a6aabc71421cb75f3402e171a9c, type: 2}
     - target: {fileID: 8225168873297112583, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
       propertyPath: m_Name
       value: Classic_fluorescent_lamp (5)
@@ -5228,6 +5232,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1705550776}
     m_Modifications:
+    - target: {fileID: 4566957891733899391, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3a195a6aabc71421cb75f3402e171a9c, type: 2}
     - target: {fileID: 8225168873297112583, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
       propertyPath: m_Name
       value: Classic_fluorescent_lamp (1)
@@ -8202,6 +8210,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1705550776}
     m_Modifications:
+    - target: {fileID: 4566957891733899391, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3a195a6aabc71421cb75f3402e171a9c, type: 2}
     - target: {fileID: 8225168873297112583, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
       propertyPath: m_Name
       value: Classic_fluorescent_lamp
@@ -21128,6 +21140,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1705550776}
     m_Modifications:
+    - target: {fileID: 4566957891733899391, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3a195a6aabc71421cb75f3402e171a9c, type: 2}
     - target: {fileID: 8225168873297112583, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
       propertyPath: m_Name
       value: Classic_fluorescent_lamp (3)
@@ -22061,7 +22077,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!65 &1460722654
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22733,6 +22749,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1705550776}
     m_Modifications:
+    - target: {fileID: 4566957891733899391, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3a195a6aabc71421cb75f3402e171a9c, type: 2}
     - target: {fileID: 8225168873297112583, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
       propertyPath: m_Name
       value: Classic_fluorescent_lamp (4)
@@ -29675,6 +29695,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1705550776}
     m_Modifications:
+    - target: {fileID: 4566957891733899391, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3a195a6aabc71421cb75f3402e171a9c, type: 2}
     - target: {fileID: 8225168873297112583, guid: 08ee4c811cfe44445b6206d8638b0d72, type: 3}
       propertyPath: m_Name
       value: Classic_fluorescent_lamp (2)
